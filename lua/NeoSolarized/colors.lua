@@ -2,9 +2,9 @@ local M = {}
 
 -- @class Dark Color Palette
 M.dark = {
-	bg0 = "#121212",
-	bg1 = "#121212",
-	bg2 = "#121212",
+	bg0 = "#002b36",
+	bg1 = "#073642",
+	bg2 = "#002b36",
 	fg0 = "#839496",
 	fg1 = "#657b83",
 	fg2 = "#586e75",
@@ -13,7 +13,7 @@ M.dark = {
 	base3 = "#fdf6e3",
 	red = "#dc322f",
 	orange = "#cb4b16",
-	yellow = "#FFDD33",
+	yellow = "#ffdd33",
 	green = "#859900",
 	aqua = "#2aa198",
 	blue = "#268bd2",
